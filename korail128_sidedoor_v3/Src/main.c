@@ -355,7 +355,7 @@ int main(void)
 	b = 2.81f;
 	c = a+b;				// int형 변수일 경우 덧셈 결과는 1+2=3
 	d = a*b;				// int형 변수일 경우 곱샘 결과는 1*2=2
-	printf("-- 코레일128량(Korail128) based on RTOS!(%.2f, %.2f) --\r\n", c, d);
+	printf("-- 코레일128량(Korail128) based on RTOS!!!(%.2f, %.2f) --\r\n", c, d);
 	printf("-- Compiled: %s %s --\r\n", __DATE__, __TIME__);
 	
 //	HAL_Delay(5000);					//jeon_191007 5000ms 지연
