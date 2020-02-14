@@ -30,9 +30,9 @@
  * 장애물 3회 감지 후 완전열림 동작 확인
  * 차단스위치 차단 시 Free, 복귀 시 Closing 동작 확인 (버그: 2회째 차단 복귀 시 계속 밀고 있음)
  */
-#define VERSION_MAJOR				(3)				// orig:1
-#define VERSION_MINOR				(2)				// orig:0
-#define VERSION_SECOND				(1)				// orig:2
+#define VERSION_MAJOR				(1)				// orig:1
+#define VERSION_MINOR				(0)				// orig:0
+#define VERSION_SECOND				(2)				// orig:2
 
 #define RSWDT_PERIOD        		1000			// 1000ms
 /*
